@@ -42,8 +42,8 @@ eureka:
      prefer-ip-address: true
 
 info:
-  app.name: llb-microservicecloud
-  company.name: www.llb.com
+  app.name: ya-microservicecloud
+  company.name: www.ya.com
   build.artifactId: $project.artifactId$
   build.version: $project.version$  
                    
